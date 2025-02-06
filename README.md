@@ -8,8 +8,8 @@ Uma dashboard para jogadores de valorant, onde você pode encontrar os dados de 
 
 ## Autores
 
-- [@zKriguer](https://github.com/zKriguer)
-- [@Nick-Gabe](https://github.com/Nick-Gabe)
+- [@fumiga]([https://github.com/zKriguer](https://discord.gg/Uh6vbG3eAZ))
+- [@i.nxwl]([https://github.com/Nick-Gabe](https://discord.gg/Uh6vbG3eAZ))
 
 
 ## Demonstração
